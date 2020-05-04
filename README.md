@@ -1,6 +1,6 @@
 # Mandelbrot set
 
---learnt from O'reilly Programming Rust; I'm officially a Rustacean
+--learnt from O'reilly Programming Rust;
 
 The Mandelbrot set is defined as the set of complex numbers c for which z
 does not fly out to infinity. Some go as far as to call it 'the thumb pint of God'.
