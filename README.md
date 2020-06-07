@@ -1,5 +1,7 @@
 # Mandelbrot set
 
+![alt text](https://github.com/muse243/mandelbrot/blob/master/mandel.png?raw=true)
+
 --learnt from O'reilly Programming Rust;
 
 The Mandelbrot set is defined as the set of complex numbers c for which z
