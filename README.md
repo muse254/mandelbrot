@@ -1,6 +1,6 @@
 # Mandelbrot set
 
-![alt text](https://github.com/muse243/mandelbrot/blob/master/mandel.png)
+![alt text](https://github.com/muse254/mandelbrot/blob/master/mandel.png)
 
 --learnt from O'reilly Programming Rust;
 
